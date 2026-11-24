@@ -1,0 +1,32 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Code Composer Studio / Eclipse build output
+Debug/
+Release/
+.launches/
+.settings/
+*.obj
+*.out
+*.map
+*.pp
+*.d
+
+# Energia / Arduino build output
+build/
+*.elf
+*.hex
+*.bin
+
+# MATLAB
+*.asv
+*.mex*
+slprj/
+
+# Edge Impulse downloads / datasets (fetched by scripts)
+beans_data/
+ecg_data/
+*.zip
