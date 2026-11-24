@@ -52,7 +52,6 @@ Accelerometer ──ADC (12-bit, pins 23/24/25)──► MSP432 ──► LCD  "
 
 LCD helper functions adapted from the MSP432 LCD framework by Qilin Si & Max Steele; based on Energia's `EducationalBP_MKII/AccelerometerSerial` example.
 
-## Authors
+## Author
 
-- **Shrinath Abhay Palwankar**
 - **Aryan Verma**
